@@ -1,0 +1,40 @@
+{
+	"fn" : "Nicolas Vahlas",
+	"familyName" : "Vahlas",
+	"givenName" : "Nicolas",
+	"nickname" : "nico",
+	"url" : "http://nico.vahlas.eu",
+	"email" : "nico@vahlas.eu",
+	"adr" : {
+		"street-address": "megaloy spilaioy 4",
+		"locality": "Nea Smyrni",
+		"region": "Attika",
+		"postal-code": "GR-17124",
+		"country-name": "Greece",
+		"extended-address": "",
+		"post-office-box": ""
+	},
+	"geo" : {
+		"latitude" : 123
+	},
+	"bday" : "1977-06-06",
+	"additionalName" : ["Nick"],
+	"honorificPrefix" : ["Mr."],
+	"honorificSuffix" : ["Jr."],
+	"logo" : "something",
+	"org" : {
+		"organizationUnit" : "UK",
+		"organizationName" : "MI6"
+	},
+	"photo" : "Nick.png",
+	"role" : "Team Lead",
+	"sound" : "Beep!",
+	"tel" : {
+		"type" : "home",
+		"value" : "555-555-5555"
+	},
+	"title" : "Senior Systems Architect",
+	"tz" : "Don't know what this is",
+        "foo": 42,
+        "town": "Freeburg"
+}

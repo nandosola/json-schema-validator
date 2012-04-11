@@ -1,0 +1,18 @@
+=json-schema validator in Java
+IETF draft version 02: http://tools.ietf.org/html/draft-zyp-json-schema-02
+
+For implementation details, see src/test/resources/status.txt
+
+= History
+Original project by Nicolas Vahlas:
+http://nico.vahlas.eu/2010/05/17/json-schema-first-java-implementation-available/
+
+Original Git repository:
+https://gitorious.org/json-schema-validation-in-java/json-schema-validator
+
+
+* Cloned from gitorious (mattasync's fork). Made tests pass. Updated pom.xml with newer artifacts
+* Fixed Union Type schema parsing and added some tests
+* Documented & added tests for more complex optional properties validations
+* Added 'requires' with multiple properties
+* Added format validators for date and date-time
